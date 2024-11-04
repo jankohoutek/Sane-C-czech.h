@@ -1,4 +1,4 @@
-# Č (Čéčko) / Č++ (Čépépé) ythe SANE version
+# Č (Čéčko) / Č++ (Čépépé) the SANE version
 
 The czech library for C (and C++). Why? Because we could, of course! 
 But this fork make it really usable for coding and usaable for learning.
