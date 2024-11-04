@@ -1,9 +1,10 @@
-# Č (Čéčko) / Č++ (Čépépé)
+# Č (Čéčko) / Č++ (Čépépé) ythe SANE version
 
-The czech library for C (and C++). Why? Because we could, of course!
+The czech library for C (and C++). Why? Because we could, of course! 
+But this fork make it really usable for coding and usaable for learning.
 
-Please contribute your other ~~horrible~~ awesome and creative translations
-so that we can write a fully czech code to suit all our needs.
+Please contribute your other sane translations. This is cherrypicking from
+the original sources, so that we can write a fully czech code.
 
 ## Using
 
