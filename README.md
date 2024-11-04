@@ -13,7 +13,7 @@ Download that file alone, or along this whole repository, and then, after
 including it in your source files like you would with any other header, you
 will be fully set up! (Just make sure you use relatively modern compiler)
 
-We have this project tested and provably working with
+We have this project tested and probably working with
 [Clang](http://releases.llvm.org/download.html), but newer versions of gcc
 are also known to work, as well as some other compilers.
 
@@ -27,9 +27,9 @@ For testing, we also provide C to Č and reverse transpiler in the file
 #include "czech.h"
 #include <stdio.h>
 
-číslo hlavní(prázdno)
+clč hlavní(nic)
 {
     položř("Ahoj, světe!");
-    vrať 0;
+    navrať 0;
 }
 ```
